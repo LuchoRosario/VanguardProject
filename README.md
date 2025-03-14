@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo analizar el comportamiento de los clientes a t
 3. **Análisis del Proceso de Compleción**
     - Conversión de pasos del proceso a valores numéricos.
     - Identificación de clientes que completaron el proceso.
-    - Análisis de la tasa de compleción por variación (Test vs Control).
+    - Análisis de la tasa de compleción por variación(Test vs Control).
     - Pruebas de hipótesis para comparar tasas de compleción.
 
 4. **Análisis del Tiempo en Cada Paso**
